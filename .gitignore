@@ -1,0 +1,19 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+
+# IDE configuration
+.vscode
+
+# Analysis directories
+data/
+notebooks/
+logs/
+outputs/
+
+# Slurm
+slurm/scripts/
+slurm/logs/
+
+# UV
+uv.lock

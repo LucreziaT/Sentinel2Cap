@@ -1,0 +1,55 @@
+[project]
+name = "Sentinel2Cap"
+version = "0.1.0"
+description = "Evaluate VLM captioning on multiple remote sensing modalities"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate",
+    "pandas",
+    "pyarrow",
+    "numpy",
+    "rasterio",
+    "transformers",
+    "qwen-vl-utils",
+    "torch",
+    "torchvision",
+    "tqdm",
+    "ipykernel",
+    "pycocoevalcap",
+]
+
+# target torch to cuda 12.8 or CPU
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cpu", extra = "cpu" },
+    { index = "pytorch-cu128", extra = "gpu" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[project.optional-dependencies]
+cpu = [
+    "setuptools>=65.0.0",
+    "torch==2.10",
+]
+gpu = [
+    "torch==2.10",
+]
+
+[tool.uv]
+package = false
+default-groups = []
+conflicts = [
+    [
+        { extra = "cpu" },
+        { extra = "gpu" },
+    ],
+]
