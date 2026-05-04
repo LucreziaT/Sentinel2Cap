@@ -6,13 +6,21 @@ Repository for managing, analyzing, and using the **Sentinel2Cap** dataset, whic
 
 ## 📁 Project Structure
 ├── scripts/ # Training, inference, and utility scripts
+
 ├── script_dataset/ # Dataset analysis and statistics scripts
+
 ├── Sentinel2Cap.zip # 12k manually annotated captions
+
 ├── Sentinel2Cap.parquet # Structured dataset metadata
+
 ├── Qwen3-VL-8B-Instruct_... # Outputs from two studies (different prompts)
+
 ├── install_flash_attn.sh # Flash Attention installation script
+
 ├── pyproject.toml # Project dependencies
+
 ├── .python-version
+
 └── .gitignore
 
 ---
