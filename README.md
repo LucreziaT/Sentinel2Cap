@@ -153,6 +153,6 @@ Ronny Hansch: rww.haensch (at) gmail.com
 
 ---
 
-## ✅ Citation: 
+## ✅ Citation
 The paper is under review; for the moment, please use the following citation:
 xxx
