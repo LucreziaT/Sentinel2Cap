@@ -143,6 +143,8 @@ Lucrezia Tosato: ltosato (at) sarmap.ch
 Gianluca Lombardi: gianluca.lombardi.fr (at) gmail.com
 Ronny Hansch: rww.haensch (at) gmail.com
 
+---
+
 ## ✅ Citation: 
 The paper is under review; for the moment, please use the following citation:
 xxx
