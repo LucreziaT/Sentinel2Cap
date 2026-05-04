@@ -57,7 +57,6 @@ month: march
 occurrences: 3
 s1_name: S1A_IW_GRDH_1SDV_20180327T064326_29SNB_16_20
 
-
 ---
 
 ## 🤖 Model Outputs
@@ -81,6 +80,7 @@ Install dependencies:
 
 ```bash
 pip install -e .
+```
 
 ---
 
