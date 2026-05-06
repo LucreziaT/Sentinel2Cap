@@ -141,7 +141,8 @@ benchmark for generative models
 
 ## 📄 License
 
-Specify here the license for the dataset and code.
+Copyright (c) 2026 Tosato Lucrezia 
+MIT License
 
 ---
 
