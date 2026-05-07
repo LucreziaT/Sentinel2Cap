@@ -1,4 +1,4 @@
-Sentinel2Cap Dataset License: CC BY 4.0
+License: CC BY 4.0 for Sentinel2Cap Dataset 
 
 Copyright (c) 2026 Tosato Lucrezia 
 
