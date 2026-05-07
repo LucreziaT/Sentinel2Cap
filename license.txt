@@ -1,8 +1,26 @@
+Sentinel2Cap Dataset License: CC BY 4.0
+Copyright (c) 2026 Tosato Lucrezia 
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+- Share
+- Adapt
+- Redistribute
+
+Under the following terms:
+- Attribution must be given to the original authors.
+
+Full license text:
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
 MIT License
 
-Sentinel2Cap Dataset
+Code
 
-Copyright (c) 2026 Tosato Lucrezia 
+Copyright (c) 2026 Tosato Lucrezia, Gianluca Lombardi 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
