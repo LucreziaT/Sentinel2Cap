@@ -140,9 +140,11 @@ benchmark for generative models
 ---
 
 ## 📄 License
-
 Copyright (c) 2026 Tosato Lucrezia 
-MIT License
+MIT License for Sentinel2Cap dataset
+
+Copyright (c) 2026 Tosato Lucrezia, Gianluca Lombardi 
+CC BY 4.0 License for the code  
 
 ---
 
