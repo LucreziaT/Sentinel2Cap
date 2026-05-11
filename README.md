@@ -157,5 +157,12 @@ Ronny Hansch: rww.haensch (at) gmail.com
 ---
 
 ## ✅ Citation
+
 The paper is under review; for the moment, please use the following citation:
-xxx
+
+@article{tosato2026sentinel2cap,
+  title={Sentinel2Cap: A Human-Annotated Benchmark Dataset for Multimodal Remote Sensing Image Captioning},
+  author={Tosato, Lucrezia and Lombardi, Gianluca and Hansch, Ronny},
+  journal={arXiv preprint arXiv:2605.03189},
+  year={2026}
+}
